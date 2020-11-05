@@ -1,6 +1,6 @@
---
+---
 permalink: /PrivacyPolicy/
---
+---
 
 ## Privacy Policy
 
