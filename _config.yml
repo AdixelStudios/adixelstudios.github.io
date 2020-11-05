@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 title: Adixel Studios
+subtitle: ""
 
-
-footer-extra: infoFooter.md
 
 exclude:
   - README.md
