@@ -1,3 +1,7 @@
+--
+permalink: /PrivacyPolicy/
+--
+
 ## Privacy Policy
 
 built the Easy Workout Timer app as an Ad Supported app. This SERVICE is provided by at no cost and is intended for use as is.
