@@ -1,6 +1,12 @@
 theme: jekyll-theme-cayman
 title: Adixel Studios
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
 
 exclude:
   - README.md
