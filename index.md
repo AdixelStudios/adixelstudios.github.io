@@ -1,5 +1,3 @@
-layout: page
-title: Adixel Studios
-permalink: /home/
+## Adixel Studios
 
-Ciao sono una pagina di prova
+Hi i'm a new developer.
