@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-title: Adixel Studios
-
-
-exclude:
-  - README.md
-  - docs/
